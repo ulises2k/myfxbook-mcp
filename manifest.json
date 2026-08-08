@@ -3,7 +3,7 @@
   "name": "myfxbook-mcp",
   "version": "1.0.0",
   "description": "Connect your MyFxBook accounts to Claude to analyze trades and history.",
-  "author": "Alex",
+  "author": "ulises2k",
   "runtime": "node",
   "main": "build/index.js",
   "capabilities": {
